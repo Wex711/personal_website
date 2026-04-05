@@ -7,12 +7,16 @@ section {
     border: 1px solid #000000;
 }
 
-p{
+p {
     color: #4a4a4a;
 }
 
-h1, h2 {
+h1 {
     color: #ffffff;
+}
+
+h2 {
+    color: #4a4a4a;
 }
 
 body{
