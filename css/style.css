@@ -65,6 +65,11 @@ padding: 3px 3px;
 color: #ffffff;
 }
 
+nav ul a {
+color: #ffffff;
+text-decoration: none;
+}
+
 .headblock {
 margin: 0rem auto;
 background-color: #1e1e1e;
