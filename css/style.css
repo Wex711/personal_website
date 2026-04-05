@@ -13,6 +13,7 @@ p{
 
 body{
     max-width: 756px;
+    border: 1px solid black;
 }
 /*MAIN PAGE FLEXBOX*/
 .parent {
@@ -56,4 +57,10 @@ justify-content: space-evenly;
 list-style: none;
 gap: 10px;
 padding: 3px 3px;
+}
+
+.headblock {
+margin: 0rem auto;
+background-color: 1e1e1e;
+border: 1px solid black;
 }
