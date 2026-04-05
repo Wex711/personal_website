@@ -75,6 +75,10 @@ color: #ffffff;
 text-decoration: none;
 }
 
+nav ul a:hover {
+    background-color: #2b2b2b;
+}
+
 .headblock {
 margin: 0rem auto;
 background-color: #1e1e1e;
