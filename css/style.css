@@ -7,7 +7,7 @@ font-family: 'Open Sans', sans-serif;
 section {
 background-color: white;
 border: 1px solid #000000;
-padding: 10px 20px;
+padding: 20px 20px;
 border-radius: 5px;
 }
 
@@ -39,7 +39,7 @@ border: none;
 
 .child1, .child2 {
 flex: 1 1 250px;
-padding: 15px 20px;
+padding: 20px 20px;
 box-sizing: border-box;
 background-color: #E6e6e6;
 display: flex;            
@@ -61,7 +61,7 @@ border: 1px solid #1e1e1e;
 background-color: #e6e6e6;
 border: 1px solid #000000;
 max-width: 1000px;
-margin: 20px auto;      
+margin: 0px auto;      
 padding: 20px;
 box-sizing: border-box;
 }
@@ -78,7 +78,7 @@ flex-flow: wrap;
 justify-content: space-evenly;
 list-style: none;
 gap: 5px;
-padding: 3px 3px;
+padding: 20px 20px;
 color: #ffffff;
 }
 
@@ -100,7 +100,7 @@ color: #ffffff;
 display: flex;             
 align-items: center;     
 justify-content: space-evenly;
-padding: 10px 20px;
+padding: 20px 20px;
 }
 
 picture {
