@@ -11,6 +11,10 @@ p{
     color: #4a4a4a;
 }
 
+h1, h2 {
+    color: #ffffff;
+}
+
 body{
     max-width: 756px;
     border: 1px solid black;
@@ -56,12 +60,14 @@ display: flex;
 flex-flow: wrap;
 justify-content: space-evenly;
 list-style: none;
-gap: 10px;
+gap: 5px;
 padding: 3px 3px;
+color: #ffffff;
 }
 
 .headblock {
 margin: 0rem auto;
 background-color: #1e1e1e;
 border: 1px solid black;
+color: #ffffff;
 }
