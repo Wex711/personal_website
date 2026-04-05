@@ -90,3 +90,7 @@ align-items: center;
 justify-content: space-between;
 padding: 10px 20px;
 }
+
+picture {
+    border: 1px solid #1e1e1e;
+}
