@@ -6,6 +6,7 @@ html {
 
 section {
     border: 1px solid #000000;
+    padding: 10px 20px;
 }
 
 p {
@@ -79,4 +80,9 @@ margin: 0rem auto;
 background-color: #1e1e1e;
 border: 1px solid black;
 color: #ffffff;
+
+display: flex;             
+align-items: center;     
+justify-content: space-between;
+padding: 10px 20px;
 }
