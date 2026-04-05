@@ -103,7 +103,8 @@ padding: 10px 20px;
 }
 
 picture {
-    border: 1px solid #1e1e1e;
+display: block;
+border: none;
 }
 
 .headblock ul {
