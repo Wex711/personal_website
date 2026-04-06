@@ -177,3 +177,8 @@ section img {
     margin: 1rem auto;
 }
 }
+
+iframe {
+    display: block;
+    margin: 1rem auto;
+}
