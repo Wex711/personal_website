@@ -158,5 +158,8 @@ gap: 40px
     margin: 1rem auto;
     text-align: center;
 }
-
-   
+ 
+section h2 {
+    margin: 0rem auto;
+    text-align: center;
+}
