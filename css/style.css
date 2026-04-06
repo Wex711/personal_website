@@ -6,9 +6,7 @@ font-family: 'Open Sans', sans-serif;
 
 section {
 background-color: #E6E6E6;
-border: 1px solid #000000;
 padding: 20px 20px;
-border-radius: 5px;
 }
 
 
@@ -60,11 +58,14 @@ border: 1px solid #000000;
 
 .mainpage {
 background-color: #e6e6e6;
-border: 1px solid #000000;
 max-width: 1000px;
 margin: 0px auto;      
 padding: 20px;
 box-sizing: border-box;
+border-top: none;
+border-bottom: none;
+border-left: 1px solid black;
+border-right: 1px solid black;
 }
 
 .mainpage > h2 {
@@ -95,8 +96,9 @@ nav ul a:hover {
 .headblock {
 margin: 0rem auto;
 background-color: #1e1e1e;
-border: 1px solid black;
 color: #ffffff;
+border: 1px solid black;
+border-radius: 5px 5px 0 0;
 
 display: flex;             
 align-items: center;     
@@ -142,6 +144,11 @@ gap: 40px
 
 .contactme {
     background-color: #E6E6E6;
+    border-radius: 0 0 5px 5px;
+    border-top: none;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
 }
 
 .contactme h2 {
