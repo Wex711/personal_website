@@ -1,6 +1,7 @@
 html {
     background-color: #3D434A;
     font-family: 'Open Sans', sans-serif;
+    width: 700px;
 }
 
 body {
@@ -247,4 +248,8 @@ footer {
     border-right: 1px solid black;
     border-bottom: 1px solid black;
     border-radius: 0 0 14px 14px;
+}
+
+.headblock > p {
+    color: #ffffff;
 }
