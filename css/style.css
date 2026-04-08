@@ -192,3 +192,10 @@ ul, ol {
     color:#4a4a4a;
     text-align: left;
 }
+
+.projectcard {
+color: #4a4a4a;
+background-color: white;
+border: 1px solid black;
+border-radius: 5px;
+}
