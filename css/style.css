@@ -180,7 +180,7 @@ main {
 }
 
 .thejects {
-    background-color: #e8eef7;
+    background-color: #ffffff;
     padding: 30px 20px;
     display: flex;
     flex-direction: column;
@@ -190,7 +190,7 @@ main {
 .projectcard {
     width: 100%;
     max-width: 680px;
-    background-color: #ffffff;
+    background-color: #e8eef7;
     border: 1px solid black;
     border-radius: 8px;
     padding: 24px;
