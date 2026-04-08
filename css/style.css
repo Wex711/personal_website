@@ -187,3 +187,7 @@ iframe {
 display: block;
 margin: 1rem auto;
 }
+
+ul, ol {
+    color:#4a4a4a;
+}
