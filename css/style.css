@@ -144,6 +144,7 @@ margin: 1rem auto;
 .mail a, .linkedin a {
 color:white;
 text-decoration: none;
+padding: 3px 3px;
 }
 
 .contactme {
