@@ -20,7 +20,7 @@ h1 {
 color: #ffffff;
 }
 
-h2 {
+h2, h3{
 color: #4a4a4a;
 margin: 0rem auto;
 }
@@ -190,4 +190,5 @@ margin: 1rem auto;
 
 ul, ol {
     color:#4a4a4a;
+    text-align: left;
 }
