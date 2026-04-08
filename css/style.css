@@ -23,6 +23,13 @@ main > div {
     align-items: center;
 }
 
+div {
+    background-color: #E6E6E6;
+border-left: 1px solid black;
+border-right: 1px solid black;
+border-bottom: 1px solid black;    
+}
+
 p {
 color: #4a4a4a;
 margin: 1rem 1rem auto;
