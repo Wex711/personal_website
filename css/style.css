@@ -2,6 +2,8 @@ html {
     background-color: #3D434A;
     font-family: 'Open Sans', sans-serif;
     width: 1000px;
+    max-width: 900px;
+    margin: 1rem auto;
 }
 
 body {
