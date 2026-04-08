@@ -5,13 +5,13 @@ font-family: 'Open Sans', sans-serif;
 }
 
 section {
-background-color: #E6E6E6;
+background-color: white;
 padding: 20px 40px;
 margin: 1rem 0;
 }
 
 .thejects {
-background-color: #E6E6E6;
+background-color: white;
 border-bottom: 1px solid black;
 border-left: 1px solid black;
 border-right: 1px solid black;
@@ -24,7 +24,7 @@ main > div {
 }
 
 div {
-    background-color: #E6E6E6;
+    background-color: white;
 border-left: 1px solid black;
 border-right: 1px solid black;
 border-bottom: 1px solid black;    
@@ -55,7 +55,7 @@ display: flex;
 flex-wrap: wrap;
 justify-content: center;   
 gap: 30px;
-background-color: #E6E6E6;
+background-color: white;
 border: none;
 }
 
@@ -63,7 +63,7 @@ border: none;
 flex: 1 1 250px;
 padding: 20px 20px;
 box-sizing: border-box;
-background-color: #E6e6e6;
+background-color: white;
 display: flex;            
 flex-direction: column;
 text-align: center;     
@@ -80,7 +80,7 @@ border: 1px solid #000000;
 }
 
 .mainpage {
-background-color: #e6e6e6;
+background-color: white;
 max-width: 1000px;
 margin: 0px auto;      
 padding: 20px;
@@ -167,7 +167,7 @@ padding: 3px 3px;
 }
 
 .contactme {
-background-color: #E6E6E6;
+background-color: white;
 border-radius: 0 0 5px 5px;
 border-top: none;
 border-bottom: 1px solid black;
