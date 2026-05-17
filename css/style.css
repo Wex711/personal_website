@@ -54,7 +54,7 @@ align-items: center;
 justify-content: space-evenly;
 padding: 20px;
 margin: 0;
-background-image: url('../media/gray_textured_background.jpg');
+background-image: url('../media/grey_background.jpg');
 background-size: 100% 100%;
 }
 
@@ -245,7 +245,7 @@ border-left: 1px solid black;
 border-right: 1px solid black;
 border-bottom: 1px solid black;
 border-radius: 0 0 14px 14px;
-background-image: url('../media/gray_textured_background.jpg');
+background-image: url('../media/grey_background.jpg');
 background-size: 100% 100%;
 }
 
