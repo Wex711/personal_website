@@ -55,6 +55,7 @@ align-items: center;
 justify-content: space-evenly;
 padding: 20px;
 margin: 0;
+background-image: url('gray_textured_background.jpg');
 }
 
 nav ul {
@@ -245,6 +246,7 @@ border-left: 1px solid black;
 border-right: 1px solid black;
 border-bottom: 1px solid black;
 border-radius: 0 0 14px 14px;
+background-image: url('gray_textured_background.jpg');
 }
 
 .headblock > p {
